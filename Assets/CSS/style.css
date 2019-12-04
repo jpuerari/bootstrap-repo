@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background-image: url(../Images/cork-board.png);
+    color: #777777;
+
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6, {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button {
+    background-color: #4aaaa5;
+}
+
+label {
+    color: #777777;
+}
